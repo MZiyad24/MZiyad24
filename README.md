@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Yehia!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ziyad+Mohammed!;" />
 </h1>
 
 <h3 align="center">A Passionate Full-Stack Devoloper </h3>
@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,ReactJS,NextJS" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,MySQL,MongoDB,NodeJS,ExpressJS" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,MySQL,mongodb,nodejs,express" /><br>
     
     
 </div>
