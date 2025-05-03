@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Express js**
 
-💬 Ask me about **HTML, CSS, Java Script, Bootstrap and Tailwind [here]([www.linkedin.com/in/ahmed-yehia-6a126a302](https://www.linkedin.com/in/ziyad-mohammed-428b71199/))**
+💬 Ask me about **HTML, CSS, Java Script, Bootstrap and Tailwind [here](https://www.linkedin.com/in/ziyad-mohammed-428b71199/)**
 
 
  </div>
