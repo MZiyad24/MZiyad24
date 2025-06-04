@@ -10,11 +10,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
  
  🌱 I’m currently learning **Express js**
 
-💬 Ask me about **HTML, CSS, Java Script, Bootstrap and Tailwind [here](https://www.linkedin.com/in/ziyad-mohammed-428b71199/)**
+💬 Ask me about **HTML, CSS, JavaScript, NextJS and ExpressJS [here](https://www.linkedin.com/in/ziyad-mohammed-428b71199/)**
 
 
  </div>
